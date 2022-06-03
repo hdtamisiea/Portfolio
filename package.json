@@ -1,6 +1,6 @@
 {
-  "homepage": "https://hdtamisiea.github.io/react-portfolio/",
-  "name": "react-portfolio",
+  "homepage": "https://hdtamisiea.github.io/portfolio/",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
