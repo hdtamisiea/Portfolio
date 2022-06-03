@@ -33,7 +33,7 @@ View walkthrough video here:
 No video provided.
 
 Deployed site can be viewed at: 
-[https://hdtamisiea.github.io/react-portfolio/]
+[https://hdtamisiea.github.io/portfolio/]
 
 Provide any instructions and/or examples for use:
 No instructions or examples provided.
