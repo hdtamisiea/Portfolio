@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ddcd6e69.css",
+    "main.js": "/portfolio/static/js/main.1b197de9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Heather.jpg": "/portfolio/static/media/Heather.6e2bb75cc4ef188cec2f.jpg",
+    "static/media/galaxy.jpg": "/portfolio/static/media/galaxy.7979a5cc28e5e1d25a02.jpg",
+    "static/media/table_with_food_top_view_900x700.jpg": "/portfolio/static/media/table_with_food_top_view_900x700.1b452a92af6b55619b9b.jpg",
+    "static/media/weather.jpg": "/portfolio/static/media/weather.b1c8d75bfe0520829fb7.jpg",
+    "static/media/gc2.jpg": "/portfolio/static/media/gc2.a637e62aa9e1194513a3.jpg",
+    "static/media/work.PNG": "/portfolio/static/media/work.53c7cc98ec2695cd7b3b.PNG",
+    "static/media/IMG_7579.jpg": "/portfolio/static/media/IMG_7579.b271b34a769f9f041694.jpg",
+    "static/media/lock2.jpg": "/portfolio/static/media/lock2.5d1861673da9270bc3db.jpg",
+    "static/media/budget.PNG": "/portfolio/static/media/budget.6074407bb8809adc5b58.PNG",
+    "index.html": "/portfolio/index.html",
+    "main.ddcd6e69.css.map": "/portfolio/static/css/main.ddcd6e69.css.map",
+    "main.1b197de9.js.map": "/portfolio/static/js/main.1b197de9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddcd6e69.css",
+    "static/js/main.1b197de9.js"
+  ]
+}
