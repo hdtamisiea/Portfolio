@@ -7,7 +7,7 @@ function Resume() {
         <p>
           View my{" "}
           <a href="https://docs.google.com/document/d/1uWHEzt34z33tRVINBgbncqyFRJTFXTG46DSd-7uNyD8/edit?usp=sharing">
-          
+            resume
           </a>{" "}
           here.
         </p>
