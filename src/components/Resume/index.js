@@ -6,7 +6,7 @@ function Resume() {
       <div className="my-2">
         <p>
           View my{" "}
-          <a href="https://drive.google.com/file/d/1sYdnwjwShFO5gPOAX3lKhi1UPKK0pb0R/view?usp=sharing">
+          <a href="https://docs.google.com/document/d/1uWHEzt34z33tRVINBgbncqyFRJTFXTG46DSd-7uNyD8/edit?usp=sharing">
             resume
           </a>{" "}
           here.
